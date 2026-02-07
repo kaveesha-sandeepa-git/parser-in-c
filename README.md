@@ -1,1 +1,2 @@
-# parser-in-c
+# parser
+creating  a parser using c
